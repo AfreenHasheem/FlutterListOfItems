@@ -1,3 +1,5 @@
+This task involves creating a screen with multiple items in the ListView. Each row has an image and a text field. When each item is clicked the row is highlighted in a set color.
+
 # Create the Category Screen!
 
 ## Goals
